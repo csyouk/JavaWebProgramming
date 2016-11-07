@@ -23,5 +23,4 @@ public class User {
                 " " + this.name +
                 " " + this.email;
     }
-
 }
